@@ -18,3 +18,4 @@ Dans l'ordre, vous devez :
 	- Allez à la mairie de Noisy-Champ, zoomez et cliquez sur le marqueur. Un formulaire aparait en haut à droite de l'écran. Rentrez le code '1234' donné précédemment. Vous recevez alors le passeport.
 	- Allez à l'ouest de Paris sur le faubourg St Honoré, zoomer et cliquez sur le marqueur. Si vous possédez le passeport, vous recevez alors automatiquement le Certificat d'Acceptation du Québec (CAQ).
 	- Cliquez à nouveau sur ce marqueur. Maintenant que vous possédez le CAQ, vous recevez le permis d'étude.
+	- Revenez à la maison. Cliquez sur le marqueur. Maintenant que vous avez les 3 documents, cela vous redirige vers une seconde page web. Bravo, vous avez réussi !
