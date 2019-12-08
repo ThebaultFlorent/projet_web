@@ -153,7 +153,7 @@ function form() {
 
         var popup = L.popup()
           .setLatLng([48.849234, 2.552572])
-          .setContent('<p>Vous avez bien reçu votre passeport. Le voici. Au revoir monsieur.</p>')
+          .setContent("<p>Vous avez bien reçu votre passeport. Le voici. Dirigez-vous vers l'ambassade du Canada pour ce qui concerne le Certificat d'Acceptation et le Permis d'étude. Au revoir monsieur.</p>")
           .openOn(map);
 
         //on enlève le formulaire pour qu'il disparaisse de l'écran
@@ -227,7 +227,7 @@ function enigme_ambassade1(){
 
         var popup = L.popup()
           .setLatLng([48.872438, 2.312434])
-          .setContent("<p>Vous avez obtenu votre Certificat d'Acceptation du Québec.</p>")
+          .setContent("<p>Vous avez obtenu votre Certificat d'Acceptation du Québec. Vous pouvez repassez pour obtenir votre permis d'étude. A bientôt monsieur.</p>")
           .openOn(map);
 
       }
@@ -261,7 +261,7 @@ function enigme_ambassade2() {
 
   var popup = L.popup()
     .setLatLng([48.872438, 2.312434])
-    .setContent("<p>Vous avez obtenu votre permis d'étude.</p>")
+    .setContent("<p>Vous avez obtenu votre permis d'étude. Rendez-vous à votre maison pour finir le jeu.</p>")
     .openOn(map);
 }
 
